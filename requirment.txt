@@ -4,3 +4,5 @@ emoji
 type action 
 colors
 vibrant
+dark mode
+video calls
